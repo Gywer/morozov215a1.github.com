@@ -72,6 +72,8 @@ h2 {
 
 .content table {
     display:block;
+    margin: 10px 0px;
+    
 }
 
 .content table strong {
