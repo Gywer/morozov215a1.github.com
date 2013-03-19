@@ -76,6 +76,10 @@ h2 {
     
 }
 
+.content table li {
+    font-width: normal;
+}
+
 .content table strong {
     font-size: 14px;
 }
