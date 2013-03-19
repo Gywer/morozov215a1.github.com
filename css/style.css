@@ -62,7 +62,7 @@ h2 {
 .content {
     background-color: rgba(255, 255, 255, 0.9);
     margin: 0 auto;
-    padding: 15px;
+    padding:5px 15px;
     display:block;
     border-radius:8px;
     -webkit-border-radius:8px;
