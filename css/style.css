@@ -12,6 +12,7 @@ h2 {
     color:#666;
     padding: 5px;
     border-bottom: 1px solid #ccc;
+    font-weight: bold;
 }
 
 .container {
@@ -73,12 +74,8 @@ h2 {
 .content table {
     display:block;
     margin: 10px 0px;
+}
     
-}
-
-.content table li {
-    font-width: normal;
-}
 
 .content table strong {
     font-size: 14px;
