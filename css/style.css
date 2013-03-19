@@ -7,6 +7,13 @@ body {
     color:#666;
 }
 
+h2 {
+    font-size: 14px;
+    color:#666;
+    padding: 3px;
+    border-bottom: 1px dotted #e5e5e5;
+}
+
 .container {
     margin:0 auto;
     width:800px;
