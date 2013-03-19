@@ -92,4 +92,13 @@ h2 {
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
 }
-.content table 
+.content table td a {
+    color:#039ae0;
+    text-decoration: none;
+}
+
+
+.content table td a:hover {
+    color:#039ae0;
+    text-decoration: underline;
+}
