@@ -65,7 +65,7 @@ h2 {
     margin: 0 auto;
     margin-bottom: 15px;
     padding:5px 15px;
-
+    display:block;
     border-radius:8px;
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
@@ -91,7 +91,8 @@ h2 {
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
     float: right;
-    padding: 0px 0px 0px 0px;
+    width: 10px;
+    height: 10px;
 }
 .cont a {
     color:#039ae0;
