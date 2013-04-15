@@ -87,10 +87,11 @@ h2 {
 
 .image {
     border:0;
-    width:100px;
+    width:210px;
     border-radius:8px;
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
+    float: top;
 }
 .cont a {
     color:#039ae0;
