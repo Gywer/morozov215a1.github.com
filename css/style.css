@@ -72,10 +72,10 @@ h2 {
 }
 
 .cont {
-
+    display:block;
     margin: 10px 0px;
     padding:6px;
-    float: left;
+    
 }
     
 
