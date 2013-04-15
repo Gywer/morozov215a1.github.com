@@ -87,7 +87,8 @@ h2 {
 
 .image {
     border:0;
-    width:210px;
+    width:20px;
+    height: 40px;
     border-radius:8px;
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
