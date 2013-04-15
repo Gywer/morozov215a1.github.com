@@ -92,6 +92,7 @@ h2 {
     -moz-border-radius:8px;
     float: right;
     margin: 5px 5px;
+    padding: 6px;
 }
 .cont a {
     color:#039ae0;
