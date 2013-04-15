@@ -71,34 +71,35 @@ h2 {
     -moz-border-radius:8px;
 }
 
-.content table {
+.cont {
     display:block;
     margin: 10px 0px;
+    padding:6px;
+    float: left;
 }
     
 
-.content table strong {
+.cont strong {
     font-size: 14px;
 }
 
-.content table td {
-    padding:6px;
-}
 
-.content table td img {
+
+.image {
     border:0;
     width:210px;
     border-radius:8px;
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
+    float: right;
 }
-.content table td a {
+.cont a {
     color:#039ae0;
     text-decoration: none;
 }
 
 
-.content table td a:hover {
+.cont a:hover {
     color:#039ae0;
     text-decoration: underline;
 }
