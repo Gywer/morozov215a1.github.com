@@ -91,7 +91,8 @@ h2 {
     border-radius:8px;
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
-    float: top;
+    position: relative;
+    left: 20px;
 }
 .cont a {
     color:#039ae0;
