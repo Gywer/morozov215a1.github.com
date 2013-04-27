@@ -71,34 +71,41 @@ h2 {
     -moz-border-radius:8px;
 }
 
+.main_content {
+    display:block;
+    float: left;
+    margin: 10px 0px;
+    padding:6px;
+}
+
+.main_content strong {
+    font-size: 14px;
+}
+
 .content table {
     display:block;
     margin: 10px 0px;
 }
     
 
-.content table strong {
-    font-size: 14px;
-}
-
 .content table td {
     padding:6px;
 }
 
-.content table td img {
+.main_content img {
     border:0;
     width:210px;
     border-radius:8px;
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
 }
-.content table td a {
+.main_content a {
     color:#039ae0;
     text-decoration: none;
 }
 
 
-.content table td a:hover {
+.main_content a:hover {
     color:#039ae0;
     text-decoration: underline;
 }
