@@ -85,6 +85,7 @@ h2 {
     float: right;
     border:0;
     width:210px;
+    margin: 8px;
     border-radius:8px;
     -webkit-border-radius:8px;
     -moz-border-radius:8px;
