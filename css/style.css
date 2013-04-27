@@ -82,6 +82,7 @@ h2 {
 }
 
 .main_content img {
+    float: right;
     border:0;
     width:210px;
     border-radius:8px;
