@@ -82,16 +82,6 @@ h2 {
     font-size: 14px;
 }
 
-.content table {
-    display:block;
-    margin: 10px 0px;
-}
-    
-
-.content table td {
-    padding:6px;
-}
-
 .main_content img {
     border:0;
     width:210px;
